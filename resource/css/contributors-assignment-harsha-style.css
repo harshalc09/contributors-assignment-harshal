@@ -1,0 +1,20 @@
+
+.authorName {
+    padding-left: 9px;
+    float: left;
+}
+.avatarImg {
+    float: left;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    padding: 2px;
+    top: 0;
+    left: 0;
+    width: 36px;
+}
+.contributorUser {
+    width: auto;
+    float: left;
+    padding-top: 5px;
+    padding-right: 5px;
+    padding-left: 5px;
+}
