@@ -15,4 +15,5 @@ plugin provides meta box on post admin dashboard, with the list of all users, ac
 
 ![Alt text](http://mobwebdeveloper.com/wp-content/uploads/2014/06/post-view.jpg "Optional title")
 
-#### Assignment URL.[example](http://mobwebdeveloper.com/2014/06/21/test3/) (http://mobwebdeveloper.com/2014/06/21/test3/) 
+#### Assignment URL.[example1](http://mobwebdeveloper.com/ ) (http://mobwebdeveloper.com/) 
+#### Assignment URL.[example2](http://trialproject.in/nach/ ) (http://trialproject.in/nach/) 
